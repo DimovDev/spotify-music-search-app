@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1878af7722912be6b21849f9daebb48",
+    "revision": "559e0bbbf45efa6d6a4ae29f1384a941",
     "url": "/spotify-music-search-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-music-search-app/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "e6066ea526237e63cbb0",
+    "revision": "7b33621135dd54ec916e",
     "url": "/spotify-music-search-app/static/css/main.69788557.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-music-search-app/static/js/2.57e499ea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6066ea526237e63cbb0",
-    "url": "/spotify-music-search-app/static/js/main.70f1f2fd.chunk.js"
+    "revision": "7b33621135dd54ec916e",
+    "url": "/spotify-music-search-app/static/js/main.390ed644.chunk.js"
   },
   {
     "revision": "6456cdf784253dc41184",
