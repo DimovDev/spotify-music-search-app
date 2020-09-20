@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spotify-music-search-app/static/css/main.69788557.chunk.css",
+    "main.js": "/spotify-music-search-app/static/js/main.70f1f2fd.chunk.js",
+    "main.js.map": "/spotify-music-search-app/static/js/main.70f1f2fd.chunk.js.map",
+    "runtime-main.js": "/spotify-music-search-app/static/js/runtime-main.34534f0b.js",
+    "runtime-main.js.map": "/spotify-music-search-app/static/js/runtime-main.34534f0b.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/spotify-music-search-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.57e499ea.chunk.js": "/spotify-music-search-app/static/js/2.57e499ea.chunk.js",
+    "static/js/2.57e499ea.chunk.js.map": "/spotify-music-search-app/static/js/2.57e499ea.chunk.js.map",
+    "index.html": "/spotify-music-search-app/index.html",
+    "precache-manifest.e32fa2363823e0c993252bcbf4a4e4d3.js": "/spotify-music-search-app/precache-manifest.e32fa2363823e0c993252bcbf4a4e4d3.js",
+    "service-worker.js": "/spotify-music-search-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/spotify-music-search-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.69788557.chunk.css.map": "/spotify-music-search-app/static/css/main.69788557.chunk.css.map",
+    "static/js/2.57e499ea.chunk.js.LICENSE.txt": "/spotify-music-search-app/static/js/2.57e499ea.chunk.js.LICENSE.txt",
+    "static/media/music.jpeg": "/spotify-music-search-app/static/media/music.1b265192.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34534f0b.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.57e499ea.chunk.js",
+    "static/css/main.69788557.chunk.css",
+    "static/js/main.70f1f2fd.chunk.js"
+  ]
+}
